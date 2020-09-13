@@ -29,12 +29,6 @@ TABLESPACE pg_default;
 ALTER TABLE public.limite_df
     OWNER to public;
 
-GRANT SELECT ON TABLE public.limite_df TO consulta;
-
-GRANT ALL ON TABLE public.limite_df TO sde;
-
-GRANT ALL ON TABLE public.limite_df TO ext;
-
 -- Index: sidx_limite_df_geom
 
 -- DROP INDEX public.sidx_limite_df_geom;
