@@ -1,2 +1,2 @@
 # geotechnical_database
-Banco de dados Geotécnico do Distrito Federal
+Banco tridimensional de dados geotécnicos do Distrito Federal
