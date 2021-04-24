@@ -2,13 +2,13 @@ Uses  EXTENSION postgis_sfcgal and postgis;
 
 List od functions available
 
-public.create_roles() 
-public.create_schema_users()
-public.create_users()
-public.create_schema() 
-public.drop_structure() 
-public.create_structure()
-public.enable_tracking(nome_do_esquema text, nome_da_tabela text) 
-public.disable_tracking(nome_do_esquema text, nome_da_tabela text) 
-public.tabela_dominio() 
+public.create_roles() -- Create roles dataviewer(read data), dataeditor (edit data) and dataowner (for schema owners)
+public.create_schema_users() -- Create user roles for schemas: sde (maintenance), ic (field investigations tables), el (laboratory tests tables), ext (other data tables), dom (domains tables), md (metadata tables), ctm (cadastre data), cg (geotechnical map tables)
+public.create_users() -- Create users for edit and for read data
+public.create_schema() -- Create schemas in database based on schema_users
+public.drop_structure() -- Drop all database structure
+public.create_structure() -- Create all database structure
+public.enable_tracking(nome_do_esquema text, nome_da_tabela text) -- Enable tracking on table
+public.disable_tracking(nome_do_esquema text, nome_da_tabela text) -- Disable tracking on table
+public.tabela_dominio() -- Create domains tables in dm schema
 public.populando_tabela_dominio() - ON GOING
