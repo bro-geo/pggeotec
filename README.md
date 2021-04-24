@@ -7,7 +7,7 @@ This is a phisical implementation in Postgres v11.7 + Postgis 3.0.0 of a Tridime
 Online documentation: Only availabe on this page.
 <h3> Instalation </h3>
 <ul>
-  <li> To be able to run the CREATE EXTENSION GDE command in your database, you need two download these files:<b>gde--1.0.sql</b> and <b>gde.control</b> and paste in <b> C:\Program Files\PostgreSQL\11\share\extension </b> </li> 
+  <li> To be able to run the CREATE EXTENSION GDE command in your database, you need two download these files:<b>gde--0.1.sql</b> and <b>gde.control</b> and paste in <b> C:\Program Files\PostgreSQL\11\share\extension </b> </li> 
   <li>Access your database and run command <b>"CREATE EXTENSION gde"</b></li> 
   <li>Now you can use all functions available.</li>
 </ul>
