@@ -1,0 +1,14 @@
+Uses  EXTENSION postgis_sfcgal and postgis;
+
+List od functions available
+
+public.create_roles() 
+public.create_schema_users()
+public.create_users()
+public.create_schema() 
+public.drop_structure() 
+public.create_structure()
+public.enable_tracking(nome_do_esquema text, nome_da_tabela text) 
+public.disable_tracking(nome_do_esquema text, nome_da_tabela text) 
+public.tabela_dominio() 
+public.populando_tabela_dominio() - ON GOING
