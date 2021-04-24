@@ -1,0 +1,5 @@
+# gde extension
+comment = 'PostgreSQL compatible gde function'
+default_version = '0.1'
+module_pathname = '$libdir/gde'
+relocatable = false
