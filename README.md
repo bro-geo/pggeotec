@@ -12,51 +12,6 @@ Online documentation: Only availabe on this page.
   <li>Now you can use all functions available.</li>
 </ul>
 
-
-<h2> Geotecnical Data Explorer </h2>
-<p>A QGIS plugin that allow to explore data from the geotechnical database. This plugin is also part of the thesis that will be presented in Geotechnical Pós Graduation Program in UnB with the preliminar title: "Banco tridimensional de dados geotécnicos"</p>
-<h3> Dependent resources </h3>
-<ul>
-                    <li>Postgres v11.7 + Postgis 3.0.0 (Have to be instaled in de default path.)</li>
-                    <li>Qgis v3.10.2-A Corunã</li>
-                    <li>Python 3.7 - Library: </li>
-                    <ul>
-                        <div id="python-modules">
-                            <div id="python-modules-p1">
-                                <li>numpy 1.17.3</li>
-                                <li>psycopg2 2.8.4</li>
-                                <li>matplotlib 3.0.0</li>
-                                <li>processing</li>
-                                <li>os</li>
-                                <li>builtins</li>
-                                <li>scipy 1.1.0</li>
-                                <li>seabon 0.9.1</li>
-                            </div>
-                            <div id="python-modules-p2">
-                                <li>pathlib</li>
-                                <li>statsmodel 0.11.1</li>
-                                <li>PyKrige 1.5.0</li>
-                                <li>gstools 1.2.1</li>
-                                <li>matplotlib</li>
-                                <li>scipy</li>
-                                <li>mpl_toolkits</li>
-                                <li>builtins</li>
-                            </div>
-                            <div id="python-modules-p3">
-                                <li>sys</li>
-                                <li>sklearn</li>
-                                <li>pandas</li>
-                                <li>datetime</li>
-                                <li>warnings</li>
-                                <li>subprocess</li>
-                                <li>shutil</li>
-                            </div>
-                        </div>
-                    </ul>
-                </ul>
-
-<h3> Documentation </h3>
-<p> Online documentation: About on plugin folder.</p>
 <p> License</p>
 <p><b> Copyright (C) 2021 Bruno Rodrigues</b></p>
 
