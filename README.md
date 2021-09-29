@@ -1,6 +1,6 @@
 <h1> Tridimensional Geotechnical Database </h1>
 
-This is a phisical implementation in Postgres v11.7 + Postgis 3.0.0 of a Tridimensional Geotechnical Database modeled on Object Modeling Technique for Geographic Applications (OMT-G). This database is part of the thesis that will be presented in Geotechnical Pós Graduation Program in UnB with the preliminar title: "Banco tridimensional de dados geotécnicos" and will available in a PostgreSQL extension. The current structure will be available in a (.custon) format that is needed to restore the database in PostgreSQL database.
+This is a phisical implementation in Postgres v11.7 + Postgis 3.0.0 of a Tridimensional Geotechnical Database modeled on Object Modeling Technique for Geographic Applications (OMT-G). This database is part of the thesis that will be presented in Geotechnical Pós Graduation Program in UnB with the preliminar title: "Banco tridimensional de dados geotécnicos" and will available in a PostgreSQL extension. The current structure will be available in a (.custom) format that is needed to restore the database in PostgreSQL database.
 <h3> Dependent resources </h3>
 <p> Postgres v11.7 + Postgis 3.0.0 (Have to be instaled in de default path.)</p>
 <p>GDE extension</p>
