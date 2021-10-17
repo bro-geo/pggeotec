@@ -1,4 +1,4 @@
-Uses  EXTENSION postgis_sfcgal and postgis;
+Uses  EXTENSION postgis_sfcgal 1.3.8 and postgis 3.0.3;
 
 List od functions available
 
