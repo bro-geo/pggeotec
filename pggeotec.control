@@ -1,0 +1,8 @@
+# pggeotec extension
+comment = 'pggeotec extension'
+default_version = '1.0'
+encoding = 'utf8'
+requires = 'plpgsql'
+requires = 'postgis'
+module_pathname = '$libdir/pggeotec'
+relocatable = false
