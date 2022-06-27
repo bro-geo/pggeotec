@@ -1,0 +1,9 @@
+# pggeotec matviews extension
+comment = 'pggeotec matviews extension'
+default_version = '1.0'
+encoding = 'utf8'
+requires = 'plpgsql'
+requires = 'postgis'
+requires = 'pggeotec'
+module_pathname = '$libdir/pggeotec_matviews'
+relocatable = false
